@@ -4,12 +4,12 @@ Austria,AT,484,Falsch,"Medium Score = 50%
 Low Score = 22%",,,,,,,,
 Belgium,BE,493,Falsch,"Medium Score = 44%
 Low Score = 26%",,,,,,,,
-Bulgaria,BG,null,TRUE,no data provided,,,,,,,,
+Bulgaria,BG,null,Falsch,no data provided,,,,,,,,
 Bosnia and Herzegovina,BA,null,Falsch,"Medium Score = 50%
 Low Score = 28%",,,,,,,,
 Switzerland,CH,null,Falsch,"Medium Score = 50%
 Low Score = 28%",,,,,,,,
-Cyprus,CY,null,TRUE,no data provided,,,,,,,,
+Cyprus,CY,null,Falsch,no data provided,,,,,,,,
 Czechia,CZ,490,Falsch,"Medium Score = 54%
 Low Score = 21%",,,,,,,,
 Germany,DE,498,Falsch,"Medium Score = 46%
@@ -22,12 +22,12 @@ Georgia,GE,null,Falsch,"Medium Score = 50%
 Low Score = 28%",,,,,,,,
 Greece,EL,457,Falsch,"Medium Score = 52%
 Low Score = 29%",,,,,,,,
-Spain,ES,496,TRUE,latest data from 2015,,,,,,,,
+Spain,ES,496,Falsch,latest data from 2015,,,,,,,,
 Finland,FI,520,Falsch,"Medium Score = 49%
 Low Score = 11%",,,,,,,,
 France,FR,493,Falsch,"Medium Score = 51%
 Low Score = 25%",,,,,,,,
-Croatia,HR,null,TRUE,no data provided,,,,,,,,
+Croatia,HR,null,Falsch,no data provided,,,,,,,,
 Hungary,HU,476,Falsch,"Medium Score = 61%
 Low Score = 17%",,,,,,,,
 Ireland,IE,518,Falsch,"Medium Score = 47%
@@ -48,7 +48,7 @@ Montenegro,ME,null,Falsch,"Medium Score = 50%
 Low Score = 28%",,,,,,,,
 North Macedonia,MK,null,Falsch,"Medium Score = 50%
 Low Score = 28%",,,,,,,,
-Malta,MT,null,TRUE,no data provided,,,,,,,,
+Malta,MT,null,Falsch,no data provided,,,,,,,,
 Moldova,MD,null,Falsch,"Medium Score = 50%
 Low Score = 28%",,,,,,,,
 Netherlands,NL,485,Falsch,"Medium Score = 39%
@@ -59,7 +59,7 @@ Poland,PL,512,Falsch,"Medium Score = 55%
 Low Score = 25%",,,,,,,,
 Portugal,PT,492,Falsch,"Medium Score = 56%
 Low Score = 28%",,,,,,,,
-Romania,RO,null,TRUE,no data provided,,,,,,,,
+Romania,RO,null,Falsch,no data provided,,,,,,,,
 Serbia,RS,null,Falsch,"Medium Score = 50%
 Low Score = 28%",,,,,,,,
 Sweden,SE,506,Falsch,"Medium Score = 47%
