@@ -22,7 +22,7 @@ Georgia,GE,null,Falsch,"Medium Score = 50%
 Low Score = 28%",,,,,,,,
 Greece,EL,457,Falsch,"Medium Score = 52%
 Low Score = 29%",,,,,,,,
-Spain,ES,496,Falsch,latest data from 2015,,,,,,,,
+Spain,ES,496,TRUE,latest data from 2015,,,,,,,,
 Finland,FI,520,Falsch,"Medium Score = 49%
 Low Score = 11%",,,,,,,,
 France,FR,493,Falsch,"Medium Score = 51%
