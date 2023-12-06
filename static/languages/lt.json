@@ -1,6 +1,6 @@
 {
-  "heading": "Skaitymo įgūdžiai ES: 2018 m. OECD PISA tyrimo įžvalgos",
-  "subheading": "15 metų amžiaus vaikų raštingumo ES šalyse apžvalga",
+  "heading": "Paauglių skaitymo raštingumas ES, remiantis 2022 m. PISA tyrimu",
+  "subheading": "PISA 2022, EBPO vidurkis sumažėjo beveik 15 taškų matematikos ir apie 10 balų skaitymo srityje, palyginti su PISA 2018. Tačiau vidutiniai gamtos mokslų rezultatai išliko stabilūs.",
   "legend1": "Nėra duomenų",
   "tooltip1": "Bendras vidutinis balas",
   "textSourceDescription": "Šaltinis",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_BG": "duomenų nepateikta",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "duomenų nepateikta",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "naujausi duomenys nuo 2015 m",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "duomenų nepateikta",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "duomenų nepateikta",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "duomenų nepateikta",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

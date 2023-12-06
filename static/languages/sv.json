@@ -1,6 +1,6 @@
 {
-  "heading": "Läsfärdighet i EU: Insikter från 2018 års OECD PISA-studie",
-  "subheading": "En översikt över 15-åringars läskunnighetsprestationer i EU:s medlemsländer",
+  "heading": "Läskunnighet hos tonåringar i EU baserat på 2022 års PISA-studie",
+  "subheading": "I PISA 2022 sjönk OECD-genomsnittet med nästan 15 poäng i matematik och cirka 10 poäng i läsning jämfört med PISA 2018. Medelprestationer inom naturvetenskap var dock stabila",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "Totalt medelpoäng",
   "textSourceDescription": "Källa",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Klicka för mer info",
-  "extraInfoText_BG": "inga uppgifter tillhandahålls",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "inga uppgifter tillhandahålls",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "senaste data från 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "inga uppgifter tillhandahålls",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "inga uppgifter tillhandahålls",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "inga uppgifter tillhandahålls",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Klicka för mer info"
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "Sposobnost čitanja u EU: Uvidi iz OECD PISA studije iz 2018",
-  "subheading": "Pregled pismenosti 15-godišnjaka u zemljama članicama EU",
+  "heading": "Čitalačka pismenost tinejdžera u EU na temelju studije PISA 2022",
+  "subheading": "U PISA-i 2022. prosjek OECD-a pao je za gotovo 15 bodova u matematici i oko 10 bodova u čitanju u usporedbi s PISA-om 2018. Prosječna uspješnost u znanosti, međutim, ostala je stabilna",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "Ukupni srednji rezultat",
   "textSourceDescription": "Izvor",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Kliknite za više informacija",
-  "extraInfoText_BG": "nema podataka",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "nema podataka",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "posljednji podaci iz 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "nema podataka",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "nema podataka",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "nema podataka",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Kliknite za više informacija"
 }

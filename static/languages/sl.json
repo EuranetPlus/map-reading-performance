@@ -1,6 +1,6 @@
 {
-  "heading": "Bralna sposobnost v EU: vpogledi iz študije OECD PISA iz leta 2018",
-  "subheading": "Pregled pismenosti 15-letnikov v državah članicah EU",
+  "heading": "Bralna pismenost najstnikov v EU na podlagi raziskave PISA 2022",
+  "subheading": "V PISA 2022 je povprečje OECD padlo za skoraj 15 točk pri matematiki in za približno 10 točk pri branju v primerjavi s PISA 2018. Povprečna uspešnost pri naravoslovju pa je ostala stabilna",
   "legend1": "Ni podatkov",
   "tooltip1": "Skupna povprečna ocena",
   "textSourceDescription": "Vir",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Kliknite za več informacij",
-  "extraInfoText_BG": "ni podatkov",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "ni podatkov",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "zadnji podatki iz leta 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "ni podatkov",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "ni podatkov",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "ni podatkov",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Kliknite za več informacij"
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "Competențele de citire în UE: perspective din studiul OCDE PISA din 2018",
-  "subheading": "O privire de ansamblu asupra performanței de alfabetizare a tinerilor de 15 ani în țările membre UE",
+  "heading": "Capacitatea de citire a adolescenților din UE pe baza studiului PISA 2022",
+  "subheading": "În PISA 2022, media OCDE a scăzut cu aproape 15 puncte la matematică și cu aproximativ 10 puncte la lectură, comparativ cu PISA 2018. Performanța medie în știință a rămas însă stabilă",
   "legend1": "Nici o informatie disponibila",
   "tooltip1": "Scorul mediu total",
   "textSourceDescription": "Sursă",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Click pentru mai multe informații",
-  "extraInfoText_BG": "nu sunt furnizate date",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "nu sunt furnizate date",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "ultimele date din 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "nu sunt furnizate date",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "nu sunt furnizate date",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "nu sunt furnizate date",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Click pentru mai multe informații"
 }

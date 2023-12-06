@@ -1,6 +1,6 @@
 {
-  "heading": "Lasīšanas prasme ES: ieskats no 2018. gada OECD PISA pētījuma",
-  "subheading": "Pārskats par 15 gadnieku lasītprasmes sniegumu ES dalībvalstīs",
+  "heading": "Pusaudžu lasītprasme ES, pamatojoties uz 2022. gada PISA pētījumu",
+  "subheading": "PISA 2022 vidējais rādītājs ESAO krities par gandrīz 15 punktiem matemātikā un par aptuveni 10 punktiem lasīšanā, salīdzinot ar PISA 2018. Tomēr vidējie rādītāji dabaszinātnēs palika nemainīgi.",
   "legend1": "Nav pieejami dati",
   "tooltip1": "Kopējais vidējais rezultāts",
   "textSourceDescription": "Avots",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas",
-  "extraInfoText_BG": "nav sniegti dati",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "nav sniegti dati",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "jaunākie dati no 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "nav sniegti dati",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "nav sniegti dati",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "nav sniegti dati",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
 }

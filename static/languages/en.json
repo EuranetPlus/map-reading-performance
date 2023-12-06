@@ -1,6 +1,6 @@
 {
-  "heading": "Reading proficiency in the EU: Insights from the 2018 OECD PISA Study",
-  "subheading": "An overview of 15 year olds' literacy performance in EU member countries",
+  "heading": "Reading literacy of teenagers in the EU based on the 2022 PISA study",
+  "subheading": "In PISA 2022, the OECD average dropped by almost 15 points in mathematics and about 10 score points in reading compared to PISA 2018. Mean performance in science, however, remained stable",
   "legend1": "No data available",
   "tooltip1": "Total mean score",
   "textSourceDescription": "Source",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Click for more info",
-  "extraInfoText_BG": "no data provided",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "no data provided",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "latest data from 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "no data provided",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "no data provided",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "no data provided",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Click for more info"
 }

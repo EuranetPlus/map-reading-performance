@@ -1,7 +1,7 @@
 {
-  "heading": "Il-profiċjenza fil-qari fl-UE: għarfien mill-Istudju PISA tal-OECD tal-2018",
-  "subheading": "Ħarsa ġenerali lejn il-prestazzjoni tal-litteriżmu taż-żgħażagħ ta' 15-il sena fil-pajjiżi membri tal-UE",
-  "legend1": "Ebda data disponibbli",
+  "heading": "Litteriżmu fil-qari tal-adoloxxenti fl-UE abbażi tal-istudju PISA tal-2022",
+  "subheading": "F'PISA 2022, il-medja tal-OECD naqset bi kważi 15-il punt fil-matematika u madwar 10 punti fil-qari meta mqabbla ma' PISA 2018. Madankollu, il-prestazzjoni medja fix-xjenza baqgħet stabbli",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "Punteġġ medju totali",
   "textSourceDescription": "Sors",
   "textSource": "OECD",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni",
-  "extraInfoText_BG": "ebda dejta pprovduta",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "ebda dejta pprovduta",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "l-aħħar dejta mill-2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "ebda dejta pprovduta",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "ebda dejta pprovduta",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "ebda dejta pprovduta",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
 }

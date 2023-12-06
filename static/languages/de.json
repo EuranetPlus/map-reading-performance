@@ -1,6 +1,6 @@
 {
-  "heading": "Lesekompetenz in der EU: Erkenntnisse aus der OECD-PISA-Studie 2018",
-  "subheading": "Ein Überblick über die Lese- und Schreibkompetenzleistungen von 15-Jährigen in EU-Mitgliedsländern",
+  "heading": "Lesekompetenz von Teenagern in der EU basierend auf der PISA-Studie 2022",
+  "subheading": "In PISA 2022 sank der OECD-Durchschnitt im Vergleich zu PISA 2018 in Mathematik um fast 15 Punkte und in Lesekompetenz um etwa 10 Punkte. Die Durchschnittsleistungen in Naturwissenschaften blieben jedoch stabil",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Gesamtdurchschnittswert",
   "textSourceDescription": "Quelle",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Greifen Sie auf die Daten zu",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Klicken Sie für weitere Informationen",
-  "extraInfoText_BG": "keine Daten angegeben",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "keine Daten angegeben",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "Aktuelle Daten aus dem Jahr 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "keine Daten angegeben",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "keine Daten angegeben",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "keine Daten angegeben",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Klicken Sie für weitere Informationen"
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "Lukutaito EU:ssa: näkemyksiä OECD:n vuoden 2018 PISA-tutkimuksesta",
-  "subheading": "Katsaus 15-vuotiaiden luku- ja kirjoitustaitoon EU-maissa",
+  "heading": "Teini-ikäisten lukutaito EU:ssa vuoden 2022 PISA-tutkimuksen perusteella",
+  "subheading": "PISA 2022 -tutkimuksessa OECD:n keskiarvo laski matematiikassa lähes 15 pistettä ja lukemisessa noin 10 pistettä PISA 2018 -tutkimukseen verrattuna. Luonnontieteiden keskimääräinen suorituskyky pysyi kuitenkin vakaana.",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "Keskimääräinen kokonaispistemäärä",
   "textSourceDescription": "Lähde",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja",
-  "extraInfoText_BG": "tietoja ei ole annettu",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "tietoja ei ole annettu",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "uusimmat tiedot vuodelta 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "tietoja ei ole annettu",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "tietoja ei ole annettu",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "tietoja ei ole annettu",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Napsauta saadaksesi lisätietoja"
 }

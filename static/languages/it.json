@@ -1,6 +1,6 @@
 {
-  "heading": "Competenza nella lettura nell’UE: approfondimenti dallo studio PISA dell’OCSE del 2018",
-  "subheading": "Una panoramica dei risultati in termini di alfabetizzazione dei quindicenni nei paesi membri dell'UE",
+  "heading": "La competenza in lettura degli adolescenti nell’UE sulla base dello studio PISA 2022",
+  "subheading": "Nell’indagine PISA 2022, la media OCSE è scesa di quasi 15 punti in matematica e di circa 10 punti in lettura rispetto a PISA 2018. La performance media in scienze, tuttavia, è rimasta stabile",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "Punteggio medio totale",
   "textSourceDescription": "Fonte",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Fare clic per maggiori informazioni",
-  "extraInfoText_BG": "nessun dato fornito",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "nessun dato fornito",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "ultimi dati del 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "nessun dato fornito",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "nessun dato fornito",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "nessun dato fornito",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Fare clic per maggiori informazioni"
 }

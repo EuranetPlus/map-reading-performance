@@ -1,6 +1,6 @@
 {
-  "heading": "Leesvaardigheid in de EU: inzichten uit de OESO PISA-studie van 2018",
-  "subheading": "Een overzicht van de alfabetiseringsprestaties van 15-jarigen in de lidstaten van de EU",
+  "heading": "Leesvaardigheid van tieners in de EU op basis van het PISA-onderzoek uit 2022",
+  "subheading": "In PISA 2022 daalde het OESO-gemiddelde met bijna 15 punten voor wiskunde en ongeveer 10 scorepunten voor lezen vergeleken met PISA 2018. De gemiddelde prestaties in de wetenschap bleven echter stabiel",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "Totale gemiddelde score",
   "textSourceDescription": "Bron",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Klik voor meer informatie",
-  "extraInfoText_BG": "geen gegevens verstrekt",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "geen gegevens verstrekt",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "laatste gegevens uit 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "geen gegevens verstrekt",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "geen gegevens verstrekt",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "geen gegevens verstrekt",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Klik voor meer informatie"
 }

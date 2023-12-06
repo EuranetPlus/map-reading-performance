@@ -1,6 +1,6 @@
 {
-  "heading": "Olvasástudás az EU-ban: Betekintés a 2018-as OECD PISA-tanulmányból",
-  "subheading": "Áttekintés a 15 évesek írás-olvasási teljesítményéről az EU-tagországokban",
+  "heading": "A tinédzserek olvasási készsége az EU-ban a 2022-es PISA-vizsgálat alapján",
+  "subheading": "A PISA 2022-ben az OECD-átlag csaknem 15 ponttal esett matematikában és körülbelül 10 ponttal olvasásban a PISA 2018-hoz képest. A természettudományos átlagteljesítmény azonban stabil maradt.",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "Összes átlagpontszám",
   "textSourceDescription": "Forrás",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "További információért kattintson",
-  "extraInfoText_BG": "nincs adat",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "nincs adat",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "legfrissebb adatok 2015-ből",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "nincs adat",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "nincs adat",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "nincs adat",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "További információért kattintson"
 }

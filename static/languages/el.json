@@ -1,6 +1,6 @@
 {
-  "heading": "Επάρκεια ανάγνωσης στην ΕΕ: Πληροφορίες από τη μελέτη PISA του ΟΟΣΑ το 2018",
-  "subheading": "Μια επισκόπηση των επιδόσεων των παιδιών ηλικίας 15 ετών στον αλφαβητισμό στις χώρες μέλη της ΕΕ",
+  "heading": "Η ανάγνωση του γραμματισμού των εφήβων στην ΕΕ με βάση τη μελέτη PISA του 2022",
+  "subheading": "Στην PISA 2022, ο μέσος όρος του ΟΟΣΑ μειώθηκε σχεδόν κατά 15 μονάδες στα μαθηματικά και περίπου 10 βαθμούς στην ανάγνωση σε σύγκριση με την PISA 2018. Ωστόσο, η μέση επίδοση στην επιστήμη παρέμεινε σταθερή",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
   "tooltip1": "Συνολική μέση βαθμολογία",
   "textSourceDescription": "Πηγή",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες",
-  "extraInfoText_BG": "δεν παρέχονται δεδομένα",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "δεν παρέχονται δεδομένα",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "τελευταία στοιχεία για το 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "δεν παρέχονται δεδομένα",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "δεν παρέχονται δεδομένα",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "δεν παρέχονται δεδομένα",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"
 }

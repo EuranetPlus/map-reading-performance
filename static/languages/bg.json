@@ -1,6 +1,6 @@
 {
-  "heading": "Умения за четене в ЕС: Прозрения от проучването PISA на ОИСР за 2018 г",
-  "subheading": "Преглед на ограмотяването на 15-годишните в страните-членки на ЕС",
+  "heading": "Четивната грамотност на тийнейджърите в ЕС въз основа на проучването PISA от 2022 г",
+  "subheading": "В PISA 2022 средният резултат за ОИСР спадна с почти 15 точки по математика и около 10 точки по четене в сравнение с PISA 2018. Средният резултат по природни науки обаче остана стабилен",
   "legend1": "Няма данни",
   "tooltip1": "Общ среден резултат",
   "textSourceDescription": "Източник",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Кликнете за повече информация",
-  "extraInfoText_BG": "няма предоставени данни",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "няма предоставени данни",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "последни данни от 2015 г",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "няма предоставени данни",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "няма предоставени данни",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "няма предоставени данни",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Кликнете за повече информация"
 }

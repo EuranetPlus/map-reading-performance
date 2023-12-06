@@ -1,6 +1,6 @@
 {
-  "heading": "Biegłość w czytaniu w UE: wnioski z badania OECD PISA z 2018 r",
-  "subheading": "Przegląd umiejętności czytania i pisania wśród 15-latków w krajach członkowskich UE",
+  "heading": "Umiejętność czytania nastolatków w UE na podstawie badania PISA z 2022 r",
+  "subheading": "W badaniu PISA 2022 średnia OECD spadła o prawie 15 punktów z matematyki i około 10 punktów z czytania w porównaniu z badaniem PISA 2018. Średnie wyniki w naukach ścisłych pozostały jednak stabilne",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Całkowity średni wynik",
   "textSourceDescription": "Źródło",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://data.oecd.org/pisa/reading- Performance-pisa.htm",
-  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
-  "extraInfoText_BG": "brak danych",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "brak danych",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "najnowsze dane z 2015 roku",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "brak danych",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "brak danych",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "brak danych",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

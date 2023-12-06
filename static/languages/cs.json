@@ -1,6 +1,6 @@
 {
-  "heading": "Znalost čtení v EU: statistiky ze studie OECD PISA z roku 2018",
-  "subheading": "Přehled gramotnosti 15letých v členských zemích EU",
+  "heading": "Čtenářská gramotnost teenagerů v EU na základě studie PISA z roku 2022",
+  "subheading": "V PISA 2022 klesl průměr OECD o téměř 15 bodů v matematice a asi 10 bodů ve čtení ve srovnání s PISA 2018. Průměrný výkon ve vědě však zůstal stabilní",
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": "Celkové průměrné skóre",
   "textSourceDescription": "Zdroj",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Klikněte pro více informací",
-  "extraInfoText_BG": "nebyly poskytnuty žádné údaje",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "nebyly poskytnuty žádné údaje",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "nejnovější údaje z roku 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "nebyly poskytnuty žádné údaje",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "nebyly poskytnuty žádné údaje",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "nebyly poskytnuty žádné údaje",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Klikněte pro více informací"
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "Inniúlacht léitheoireachta san AE: Léargais ó Staidéar PISA 2018 an OECD",
-  "subheading": "Forbhreathnú ar fheidhmíocht litearthachta leanaí 15 bliana d'aois i mBallstáit an AE",
+  "heading": "Litearthacht léitheoireachta déagóirí san AE bunaithe ar staidéar PISA 2022",
+  "subheading": "I PISA 2022, tháinig laghdú beagnach 15 phointe ar mheán an OECD sa mhatamaitic agus thart ar 10 bpointe scór sa léitheoireacht i gcomparáid le PISA 2018. D’fhan meánfheidhmíocht san eolaíocht, áfach, cobhsaí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "Meánscór iomlán",
   "textSourceDescription": "Foinse",
@@ -9,17 +9,5 @@
   "textNote": "",
   "textDataAccess": "Faigh rochtain ar na sonraí",
   "linkDataAccess": "https://data.oecd.org/pisa/reading-performance-pisa.htm",
-  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais",
-  "extraInfoText_BG": "níor cuireadh aon sonraí ar fáil",
-  "extraInfoLink_BG": "",
-  "extraInfoText_CY": "níor cuireadh aon sonraí ar fáil",
-  "extraInfoLink_CY": "",
-  "extraInfoText_ES": "na sonraí is déanaí ó 2015",
-  "extraInfoLink_ES": "",
-  "extraInfoText_HR": "níor cuireadh aon sonraí ar fáil",
-  "extraInfoLink_HR": "",
-  "extraInfoText_MT": "níor cuireadh aon sonraí ar fáil",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "níor cuireadh aon sonraí ar fáil",
-  "extraInfoLink_RO": ""
+  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }
