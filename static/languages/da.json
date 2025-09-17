@@ -1,13 +1,13 @@
 {
-  "heading": "Læsefærdigheder blandt teenagere i EU baseret på PISA-undersøgelsen fra 2022",
-  "subheading": "I PISA 2022 faldt OECD-gennemsnittet med næsten 15 point i matematik og omkring 10 scorepoint i læsning sammenlignet med PISA 2018. Gennemsnitlige præstationer i naturvidenskab forblev dog stabile",
-  "legend1": "Ingen tilgængelig data",
+  "heading": "Læsefærdigheder hos teenagere i EU baseret på PISA-undersøgelsen fra 2022",
+  "subheading": "I PISA 2022 faldt OECD-gennemsnittet med næsten 15 point i matematik og omkring 10 point i læsning sammenlignet med PISA 2018. Gennemsnitspræstationen i naturvidenskab forblev dog stabil.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "Samlet gennemsnitsscore",
   "textSourceDescription": "Kilde",
   "textSource": "OECD",
-  "textNoteDescription": "Bemærk",
+  "textNoteDescription": "Note",
   "textNote": "",
-  "textDataAccess": "Få adgang til data",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Umiejętność czytania nastolatków w UE na podstawie badania PISA z 2022 r",
-  "subheading": "W badaniu PISA 2022 średnia OECD spadła o prawie 15 punktów z matematyki i około 10 punktów z czytania w porównaniu z badaniem PISA 2018. Średnie wyniki w naukach ścisłych pozostały jednak stabilne",
+  "heading": "Umiejętność czytania wśród nastolatków w UE na podstawie badania PISA z 2022 r.",
+  "subheading": "W badaniu PISA 2022 średnia OECD spadła o prawie 15 punktów w matematyce i o około 10 punktów w czytaniu w porównaniu z badaniem PISA 2018. Średnie wyniki w naukach ścisłych pozostały jednak stabilne",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Całkowity średni wynik",
   "textSourceDescription": "Źródło",
   "textSource": "OECD",
   "textNoteDescription": "Notatka",
   "textNote": "",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

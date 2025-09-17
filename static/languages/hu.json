@@ -1,13 +1,13 @@
 {
-  "heading": "A tinédzserek olvasási készsége az EU-ban a 2022-es PISA-vizsgálat alapján",
-  "subheading": "A PISA 2022-ben az OECD-átlag csaknem 15 ponttal esett matematikában és körülbelül 10 ponttal olvasásban a PISA 2018-hoz képest. A természettudományos átlagteljesítmény azonban stabil maradt.",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "Összes átlagpontszám",
+  "heading": "A tinédzserek olvasási készségei az EU-ban a 2022-es PISA-felmérés alapján",
+  "subheading": "A 2022-es PISA-felmérésben az OECD-átlag matematikából közel 15 ponttal, olvasásból pedig körülbelül 10 ponttal csökkent a 2018-as PISA-felméréshez képest. A természettudományos átlagteljesítmény azonban stabil maradt.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "Teljes átlagos pontszám",
   "textSourceDescription": "Forrás",
   "textSource": "OECD",
-  "textNoteDescription": "jegyzet",
+  "textNoteDescription": "Jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

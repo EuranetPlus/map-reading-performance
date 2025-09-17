@@ -1,13 +1,13 @@
 {
-  "heading": "Capacitatea de citire a adolescenților din UE pe baza studiului PISA 2022",
-  "subheading": "În PISA 2022, media OCDE a scăzut cu aproape 15 puncte la matematică și cu aproximativ 10 puncte la lectură, comparativ cu PISA 2018. Performanța medie în știință a rămas însă stabilă",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "Scorul mediu total",
+  "heading": "Competența de citire a adolescenților din UE, conform studiului PISA din 2022",
+  "subheading": "În PISA 2022, media OCDE a scăzut cu aproape 15 puncte la matematică și cu aproximativ 10 puncte la citire față de PISA 2018. Performanța medie la științe, însă, a rămas stabilă.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "Scor mediu total",
   "textSourceDescription": "Sursă",
   "textSource": "OCDE",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

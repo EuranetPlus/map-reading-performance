@@ -1,13 +1,13 @@
 {
-  "heading": "Capacidad lectora de los adolescentes de la UE según el estudio PISA 2022",
-  "subheading": "En PISA 2022, el promedio de la OCDE cayó casi 15 puntos en matemáticas y alrededor de 10 puntos en lectura en comparación con PISA 2018. Sin embargo, el rendimiento medio en ciencias se mantuvo estable",
-  "legend1": "Datos no disponibles",
+  "heading": "Competencia lectora de los adolescentes en la UE según el estudio PISA 2022",
+  "subheading": "En PISA 2022, el promedio de la OCDE cayó casi 15 puntos en matemáticas y alrededor de 10 puntos en lectura en comparación con PISA 2018. Sin embargo, el rendimiento medio en ciencias se mantuvo estable.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "Puntuación media total",
   "textSourceDescription": "Fuente",
   "textSource": "OCDE",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Accede a los datos",
+  "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Haga clic para más información"
 }

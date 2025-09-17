@@ -1,13 +1,13 @@
 {
-  "heading": "Lesekompetenz von Teenagern in der EU basierend auf der PISA-Studie 2022",
-  "subheading": "In PISA 2022 sank der OECD-Durchschnitt im Vergleich zu PISA 2018 in Mathematik um fast 15 Punkte und in Lesekompetenz um etwa 10 Punkte. Die Durchschnittsleistungen in Naturwissenschaften blieben jedoch stabil",
+  "heading": "Lesekompetenz von Jugendlichen in der EU basierend auf der PISA-Studie 2022",
+  "subheading": "Bei PISA 2022 sank der OECD-Durchschnitt im Vergleich zu PISA 2018 in Mathematik um fast 15 Punkte und im Lesen um etwa 10 Punkte. Die durchschnittlichen Leistungen in den Naturwissenschaften blieben jedoch stabil.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "Gesamtdurchschnittswert",
+  "tooltip1": "Gesamtdurchschnittspunktzahl",
   "textSourceDescription": "Quelle",
   "textSource": "OECD",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

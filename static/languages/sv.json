@@ -1,13 +1,13 @@
 {
-  "heading": "Läskunnighet hos tonåringar i EU baserat på 2022 års PISA-studie",
-  "subheading": "I PISA 2022 sjönk OECD-genomsnittet med nästan 15 poäng i matematik och cirka 10 poäng i läsning jämfört med PISA 2018. Medelprestationer inom naturvetenskap höll sig dock stabila",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "Totalt medelpoäng",
+  "heading": "Läskunnighet hos tonåringar i EU baserat på PISA-studien från 2022",
+  "subheading": "I PISA 2022 sjönk OECD-genomsnittet med nästan 15 poäng i matematik och cirka 10 poäng i läsning jämfört med PISA 2018. Genomsnittsresultatet i naturvetenskap förblev dock stabilt.",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "Total medelpoäng",
   "textSourceDescription": "Källa",
   "textSource": "OECD",
   "textNoteDescription": "Notera",
   "textNote": "",
-  "textDataAccess": "Få åtkomst till data",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

@@ -1,7 +1,7 @@
 {
   "heading": "Pusaudžu lasītprasme ES, pamatojoties uz 2022. gada PISA pētījumu",
-  "subheading": "PISA 2022 vidējais rādītājs ESAO krities par gandrīz 15 punktiem matemātikā un par aptuveni 10 punktiem lasīšanā, salīdzinot ar PISA 2018. Tomēr vidējie rādītāji dabaszinātnēs palika nemainīgi.",
-  "legend1": "Nav pieejami dati",
+  "subheading": "PISA 2022 pētījumā OECD vidējais rādītājs matemātikā samazinājās par gandrīz 15 punktiem un lasīšanā par aptuveni 10 punktiem salīdzinājumā ar PISA 2018. Tomēr vidējais sniegums dabaszinātnēs saglabājās stabils.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "Kopējais vidējais rezultāts",
   "textSourceDescription": "Avots",
   "textSource": "ESAO",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }
