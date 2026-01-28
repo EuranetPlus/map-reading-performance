@@ -1,12 +1,12 @@
 {
-  "heading": "Litearthacht léitheoireachta déagóirí san AE bunaithe ar staidéar PISA 2022",
-  "subheading": "I PISA 2022, thit meán an OECD faoi bheagnach 15 phointe sa mhatamaitic agus thart ar 10 bpointe scóir sa léitheoireacht i gcomparáid le PISA 2018. D’fhan an mheánfheidhmíocht san eolaíocht cobhsaí, áfach.",
+  "heading": "Cé chomh maith is atá déagóirí Eorpacha ag léamh?",
+  "subheading": "De réir shuirbhé PISA 2022, tá an leibhéal inniúlachta léitheoireachta meánach i measc déagóirí 15 bliana d’aois san AE sroichte ag an leibhéal is ísle riamh, agus thart ar dhuine as gach ceathrar ag teip ar an leibhéal íosta riachtanach a bhaint amach. Níl na scileanna matamaitice íosta riachtanacha ag 30% díobh, agus tá thart ar 25% ag streachailt leis an léitheoireacht agus leis an eolaíocht.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "Meánscór iomlán",
   "textSourceDescription": "Foinse",
   "textSource": "OECD",
   "textNoteDescription": "Nóta",
-  "textNote": "",
+  "textNote": "De réir PISA, is é Leibhéal 2 an leibhéal íosta inniúlachta sa léitheoireacht, rud a fhreagraíonn do scór de 407 pointe scóir ar a laghad.",
   "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"

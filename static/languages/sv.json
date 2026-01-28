@@ -1,12 +1,12 @@
 {
-  "heading": "Läskunnighet hos tonåringar i EU baserat på PISA-studien från 2022",
-  "subheading": "I PISA 2022 sjönk OECD-genomsnittet med nästan 15 poäng i matematik och cirka 10 poäng i läsning jämfört med PISA 2018. Genomsnittsresultatet i naturvetenskap förblev dock stabilt.",
+  "heading": "Hur bra är europeiska tonåringar på att läsa?",
+  "subheading": "Enligt PISA-undersökningen från 2022 har den genomsnittliga läskunnighetsnivån bland 15-åringar i EU nått en historiskt låg nivå, där ungefär en av fyra inte når den lägsta nivån. 30 % av dem har inte de matematiska färdigheter som krävs, medan cirka 25 % kämpar med läsning och naturvetenskap.",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "Total medelpoäng",
   "textSourceDescription": "Källa",
   "textSource": "OECD",
   "textNoteDescription": "Notera",
-  "textNote": "",
+  "textNote": "Enligt PISA är den lägsta kunskapsnivån i läsning nivå 2, vilket motsvarar ett resultat på minst 407 poäng.",
   "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Klicka för mer information"

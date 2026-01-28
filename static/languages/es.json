@@ -1,12 +1,12 @@
 {
-  "heading": "Competencia lectora de los adolescentes en la UE según el estudio PISA 2022",
-  "subheading": "En PISA 2022, el promedio de la OCDE cayó casi 15 puntos en matemáticas y alrededor de 10 puntos en lectura en comparación con PISA 2018. Sin embargo, el rendimiento medio en ciencias se mantuvo estable.",
+  "heading": "¿Qué tan buenos son los adolescentes europeos en la lectura?",
+  "subheading": "Según la encuesta PISA de 2022, el nivel medio de competencia lectora entre los jóvenes de 15 años en la UE ha alcanzado un mínimo histórico, y aproximadamente uno de cada cuatro no alcanza el nivel mínimo requerido. El 30% de ellos no tiene las habilidades matemáticas mínimas requeridas, mientras que alrededor del 25% tiene dificultades con la lectura y las ciencias.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "Puntuación media total",
   "textSourceDescription": "Fuente",
   "textSource": "OCDE",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "Según PISA, el nivel mínimo de competencia en lectura es el Nivel 2, que corresponde a una puntuación de al menos 407 puntos.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Haga clic para más información"

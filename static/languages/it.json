@@ -1,12 +1,12 @@
 {
-  "heading": "Competenza nella lettura degli adolescenti nell'UE secondo lo studio PISA del 2022",
-  "subheading": "Nel PISA 2022, la media OCSE è scesa di quasi 15 punti in matematica e di circa 10 punti in lettura rispetto al PISA 2018. La prestazione media in scienze, tuttavia, è rimasta stabile.",
+  "heading": "Quanto sono bravi gli adolescenti europei a leggere?",
+  "subheading": "Secondo l'indagine PISA del 2022, il livello medio di competenza in lettura tra i quindicenni nell'UE ha raggiunto un minimo storico, con circa uno su quattro che non riesce a raggiungere il livello minimo richiesto. Il 30% di loro non possiede le competenze matematiche minime richieste, mentre circa il 25% ha difficoltà in lettura e scienze.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "Punteggio medio totale",
   "textSourceDescription": "Fonte",
   "textSource": "OCSE",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "Secondo PISA, il livello minimo di competenza in lettura è il Livello 2, che corrisponde a un punteggio di almeno 407 punti.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Clicca per maggiori informazioni"

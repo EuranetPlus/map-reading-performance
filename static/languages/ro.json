@@ -1,12 +1,12 @@
 {
-  "heading": "Competența de citire a adolescenților din UE, conform studiului PISA din 2022",
-  "subheading": "În PISA 2022, media OCDE a scăzut cu aproape 15 puncte la matematică și cu aproximativ 10 puncte la citire față de PISA 2018. Performanța medie la științe, însă, a rămas stabilă.",
+  "heading": "Cât de buni sunt adolescenții europeni la citit?",
+  "subheading": "Conform sondajului PISA din 2022, nivelul mediu de competență în citire în rândul tinerilor de 15 ani din UE a atins un minim istoric, aproximativ unul din patru nereușind să atingă nivelul minim necesar. 30% dintre aceștia nu au competențele matematice minime necesare, în timp ce aproximativ 25% au dificultăți în citire și științe.",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "Scor mediu total",
   "textSourceDescription": "Sursă",
   "textSource": "OCDE",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "Conform PISA, nivelul minim de competență la citire este Nivelul 2, care corespunde unui scor de cel puțin 407 puncte.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Faceți clic pentru mai multe informații"

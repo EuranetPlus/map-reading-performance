@@ -1,13 +1,13 @@
 {
-  "heading": "Lesekompetenz von Jugendlichen in der EU basierend auf der PISA-Studie 2022",
-  "subheading": "Bei PISA 2022 sank der OECD-Durchschnitt im Vergleich zu PISA 2018 in Mathematik um fast 15 Punkte und im Lesen um etwa 10 Punkte. Die durchschnittlichen Leistungen in den Naturwissenschaften blieben jedoch stabil.",
+  "heading": "Wie gut sind europäische Teenager im Lesen?",
+  "subheading": "Laut der PISA-Studie 2022 hat das durchschnittliche Leseverständnis von 15-Jährigen in der EU einen historischen Tiefstand erreicht: Rund ein Viertel erreicht nicht das erforderliche Mindestniveau. 30 % von ihnen verfügen nicht über die notwendigen mathematischen Mindestkenntnisse, während etwa 25 % Schwierigkeiten mit dem Lesen und den Naturwissenschaften haben.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "Gesamtdurchschnittspunktzahl",
+  "tooltip1": "Gesamtmittelwert",
   "textSourceDescription": "Quelle",
   "textSource": "OECD",
   "textNoteDescription": "Notiz",
-  "textNote": "",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Laut PISA ist das Mindestniveau der Lesekompetenz Stufe 2, was einer Punktzahl von mindestens 407 Punkten entspricht.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

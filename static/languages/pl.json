@@ -1,12 +1,12 @@
 {
-  "heading": "Umiejętność czytania wśród nastolatków w UE na podstawie badania PISA z 2022 r.",
-  "subheading": "W badaniu PISA 2022 średnia OECD spadła o prawie 15 punktów w matematyce i o około 10 punktów w czytaniu w porównaniu z badaniem PISA 2018. Średnie wyniki w naukach ścisłych pozostały jednak stabilne",
+  "heading": "Jak dobrze europejscy nastolatkowie radzą sobie z czytaniem?",
+  "subheading": "Według badania PISA z 2022 r. średni poziom umiejętności czytania wśród 15-latków w UE osiągnął najniższy poziom w historii, a około jedna czwarta nie osiągnęła minimalnego wymaganego poziomu. 30% z nich nie posiada minimalnych wymaganych umiejętności matematycznych, a około 25% ma trudności z czytaniem i naukami ścisłymi.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Całkowity średni wynik",
   "textSourceDescription": "Źródło",
   "textSource": "OECD",
   "textNoteDescription": "Notatka",
-  "textNote": "",
+  "textNote": "Według badań PISA minimalny poziom biegłości w czytaniu to Poziom 2, co odpowiada uzyskaniu co najmniej 407 punktów.",
   "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"

@@ -1,12 +1,12 @@
 {
-  "heading": "Paauglių skaitymo raštingumas ES, remiantis 2022 m. PISA tyrimu",
-  "subheading": "PISA 2022 tyrimo duomenimis, EBPO vidurkis matematikos srityje sumažėjo beveik 15 balų, o skaitymo – apie 10 balų, palyginti su PISA 2018 tyrimu. Tačiau vidutiniai rezultatai gamtos moksluose išliko stabilūs.",
+  "heading": "Ar Europos paaugliai moka skaityti?",
+  "subheading": "Remiantis 2022 m. PISA tyrimu, vidutinis 15 metų amžiaus jaunuolių skaitymo įgūdžių lygis ES pasiekė rekordinį žemumą – maždaug vienas iš keturių nepasiekė minimalaus reikalaujamo lygio. 30 % jų neturi minimalių reikalaujamų matematinių įgūdžių, o apie 25 % sunkiai sekasi skaityti ir mokytis gamtos mokslų.",
   "legend1": "Nėra duomenų",
   "tooltip1": "Bendras vidutinis balas",
   "textSourceDescription": "Šaltinis",
   "textSource": "EBPO",
   "textNoteDescription": "Pastaba",
-  "textNote": "",
+  "textNote": "Pagal PISA, minimalus skaitymo mokėjimo lygis yra 2 lygis, atitinkantis bent 407 balus.",
   "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"

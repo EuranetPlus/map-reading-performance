@@ -1,12 +1,12 @@
 {
-  "heading": "Alfabetização em leitura de adolescentes na UE com base no estudo PISA de 2022",
-  "subheading": "No PISA 2022, a média da OCDE caiu quase 15 pontos em matemática e cerca de 10 pontos em leitura em comparação com o PISA 2018. O desempenho médio em ciências, no entanto, permaneceu estável.",
-  "legend1": "Nenhum dado disponível",
+  "heading": "Quão bons leitores são os adolescentes europeus?",
+  "subheading": "De acordo com o estudo PISA de 2022, o nível médio de proficiência em leitura entre jovens de 15 anos na UE atingiu um mínimo histórico, com cerca de um em cada quatro não alcançando o nível mínimo exigido. 30% deles não possuem as habilidades matemáticas mínimas exigidas, enquanto cerca de 25% têm dificuldades com leitura e ciências.",
+  "legend1": "Não há dados disponíveis.",
   "tooltip1": "Pontuação média total",
   "textSourceDescription": "Fonte",
   "textSource": "OCDE",
   "textNoteDescription": "Observação",
-  "textNote": "",
+  "textNote": "Segundo o PISA, o nível mínimo de proficiência em leitura é o Nível 2, que corresponde a uma pontuação de pelo menos 407 pontos.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Clique para mais informações"

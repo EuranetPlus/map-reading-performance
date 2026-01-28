@@ -1,12 +1,12 @@
 {
-  "heading": "Teismeliste lugemisoskus ELis 2022. aasta PISA uuringu põhjal",
-  "subheading": "PISA 2022 uuringus langes OECD keskmine tulemus matemaatikas peaaegu 15 punkti ja lugemises umbes 10 punkti võrreldes PISA 2018-ga. Keskmine tulemus loodusteadustes jäi aga stabiilseks.",
+  "heading": "Kui head on Euroopa teismelised lugemises?",
+  "subheading": "2022. aasta PISA uuringu kohaselt on 15-aastaste keskmine lugemisoskuse tase ELis langenud ajalooliselt madalale tasemele, kusjuures umbes iga neljas ei saavuta minimaalset nõutavat taset. 30%-l neist puuduvad minimaalsed nõutavad matemaatikaoskused, samas kui umbes 25%-l on raskusi lugemise ja loodusteadustega.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "Keskmine koguskoor",
   "textSourceDescription": "Allikas",
   "textSource": "OECD",
   "textNoteDescription": "Märkus",
-  "textNote": "",
+  "textNote": "PISA andmetel on lugemises minimaalne oskustase 2. tase, mis vastab vähemalt 407 punktile.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

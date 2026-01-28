@@ -1,12 +1,12 @@
 {
-  "heading": "Bralna pismenost najstnikov v EU na podlagi študije PISA iz leta 2022",
-  "subheading": "V raziskavi PISA 2022 se je povprečje OECD v primerjavi s PISA 2018 znižalo za skoraj 15 točk pri matematiki in za približno 10 točk pri branju. Povprečni uspeh v naravoslovju pa je ostal stabilen.",
+  "heading": "Kako dobri so evropski najstniki pri branju?",
+  "subheading": "Glede na raziskavo PISA iz leta 2022 je povprečna raven bralnih znanj med 15-letniki v EU dosegla zgodovinsko nizko raven, saj približno eden od štirih ne dosega minimalne zahtevane ravni. 30 % jih nima minimalnih zahtevanih matematičnih znanj, približno 25 % pa ima težave z branjem in naravoslovjem.",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "Skupni povprečni rezultat",
   "textSourceDescription": "Vir",
   "textSource": "OECD",
   "textNoteDescription": "Opomba",
-  "textNote": "",
+  "textNote": "Po podatkih PISA je minimalna raven znanja branja 2. stopnja, kar ustreza rezultatu najmanj 407 točk.",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Kliknite za več informacij"

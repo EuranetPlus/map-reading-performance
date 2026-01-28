@@ -1,12 +1,12 @@
 {
-  "heading": "Pusaudžu lasītprasme ES, pamatojoties uz 2022. gada PISA pētījumu",
-  "subheading": "PISA 2022 pētījumā OECD vidējais rādītājs matemātikā samazinājās par gandrīz 15 punktiem un lasīšanā par aptuveni 10 punktiem salīdzinājumā ar PISA 2018. Tomēr vidējais sniegums dabaszinātnēs saglabājās stabils.",
+  "heading": "Cik labi Eiropas pusaudži prot lasīt?",
+  "subheading": "Saskaņā ar 2022. gada PISA aptauju vidējais lasītprasmes līmenis 15 gadus vecu jauniešu vidū ES ir sasniedzis vēsturiski zemāko līmeni — aptuveni katrs ceturtais nesasniedz minimāli nepieciešamo līmeni. 30 % no viņiem nav minimāli nepieciešamo matemātisko prasmju, savukārt aptuveni 25 % ir grūtības ar lasīšanu un dabaszinībām.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "Kopējais vidējais rezultāts",
   "textSourceDescription": "Avots",
   "textSource": "ESAO",
   "textNoteDescription": "Piezīme",
-  "textNote": "",
+  "textNote": "Saskaņā ar PISA datiem minimālais lasīšanas prasmes līmenis ir 2. līmenis, kas atbilst vismaz 407 punktiem.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"

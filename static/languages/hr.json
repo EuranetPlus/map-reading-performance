@@ -1,12 +1,12 @@
 {
-  "heading": "Čitalačka pismenost tinejdžera u EU na temelju istraživanja PISA iz 2022.",
-  "subheading": "U PISA-i 2022., prosjek OECD-a pao je za gotovo 15 bodova u matematici i oko 10 bodova u čitanju u usporedbi s PISA-om 2018. Prosječni uspjeh u znanosti, međutim, ostao je stabilan.",
+  "heading": "Koliko su dobri europski tinejdžeri u čitanju?",
+  "subheading": "Prema istraživanju PISA iz 2022., prosječna razina čitalačke vještine među 15-godišnjacima u EU dosegla je povijesno nisku razinu, pri čemu otprilike jedan od četiri ne doseže minimalnu potrebnu razinu. 30% njih nema minimalne potrebne matematičke vještine, dok oko 25% ima poteškoća s čitanjem i znanošću.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "Ukupni prosječni rezultat",
   "textSourceDescription": "Izvor",
   "textSource": "OECD",
   "textNoteDescription": "Bilješka",
-  "textNote": "",
+  "textNote": "Prema PISA-i, minimalna razina znanja čitanja je Razina 2, što odgovara rezultatu od najmanje 407 bodova.",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Kliknite za više informacija"

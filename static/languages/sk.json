@@ -1,12 +1,12 @@
 {
-  "heading": "Čitateľská gramotnosť tínedžerov v EÚ na základe štúdie PISA z roku 2022",
-  "subheading": "V teste PISA 2022 klesol priemer OECD v matematike o takmer 15 bodov a v čítaní o približne 10 bodov v porovnaní s testom PISA 2018. Priemerný výkon vo vede však zostal stabilný.",
+  "heading": "Akí dobrí sú európski tínedžeri v čítaní?",
+  "subheading": "Podľa prieskumu PISA z roku 2022 dosiahla priemerná úroveň čítania medzi 15-ročnými v EÚ historické minimum, pričom približne každý štvrtý nedosiahol minimálnu požadovanú úroveň. 30 % z nich nemá minimálne požadované matematické zručnosti, zatiaľ čo približne 25 % má problémy s čítaním a prírodnými vedami.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "Celkové priemerné skóre",
   "textSourceDescription": "Zdroj",
   "textSource": "OECD",
   "textNoteDescription": "Poznámka",
-  "textNote": "",
+  "textNote": "Podľa PISA je minimálna úroveň znalostí čítania 2. úroveň, ktorá zodpovedá dosiahnutiu najmenej 407 bodov.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Kliknite pre viac informácií"

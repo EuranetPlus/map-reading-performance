@@ -1,13 +1,13 @@
 {
-  "heading": "Leesvaardigheid van tieners in de EU op basis van de PISA-studie uit 2022",
-  "subheading": "In PISA 2022 daalde het OESO-gemiddelde met bijna 15 punten in wiskunde en ongeveer 10 scorepunten in lezen vergeleken met PISA 2018. De gemiddelde prestatie in wetenschap bleef echter stabiel",
+  "heading": "Hoe goed kunnen Europese tieners lezen?",
+  "subheading": "Volgens het PISA-onderzoek van 2022 heeft het gemiddelde leesniveau onder 15-jarigen in de EU een historisch dieptepunt bereikt: ongeveer een kwart haalt het minimaal vereiste niveau niet. 30% van hen beschikt niet over de minimaal vereiste wiskundige vaardigheden, terwijl ongeveer 25% moeite heeft met lezen en natuurwetenschappen.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "Totale gemiddelde score",
   "textSourceDescription": "Bron",
   "textSource": "OESO",
   "textNoteDescription": "Opmerking",
-  "textNote": "",
+  "textNote": "Volgens PISA is het minimale leesvaardigheidsniveau niveau 2, wat overeenkomt met een score van ten minste 407 punten.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik hier voor meer informatie"
 }

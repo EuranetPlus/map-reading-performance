@@ -1,13 +1,13 @@
 {
-  "heading": "Compétences en lecture des adolescents dans l'UE selon l'étude PISA 2022",
-  "subheading": "Lors du PISA 2022, la moyenne de l'OCDE a chuté de près de 15 points en mathématiques et d'environ 10 points en lecture par rapport au PISA 2018. La performance moyenne en sciences est toutefois restée stable.",
+  "heading": "Quel est le niveau de lecture des adolescents européens ?",
+  "subheading": "D’après l’enquête PISA 2022, le niveau moyen de lecture des jeunes de 15 ans dans l’UE a atteint un niveau historiquement bas : environ un sur quatre ne parvient pas au niveau minimum requis. 30 % d’entre eux ne possèdent pas les compétences mathématiques minimales requises, tandis qu’environ 25 % éprouvent des difficultés en lecture et en sciences.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "Score moyen total",
   "textSourceDescription": "Source",
   "textSource": "OCDE",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "Selon le programme PISA, le niveau de compétence minimal en lecture est le niveau 2, ce qui correspond à un score d'au moins 407 points.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-fr/index.html?itemId=/content/publication/53f23881-fr",
+  "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

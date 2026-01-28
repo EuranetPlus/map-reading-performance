@@ -1,12 +1,12 @@
 {
-  "heading": "Reading literacy of teenagers in the EU based on the 2022 PISA study",
-  "subheading": "In PISA 2022, the OECD average dropped by almost 15 points in mathematics and about 10 score points in reading compared to PISA 2018. Mean performance in science, however, remained stable",
+  "heading": "How good are European teenagers at reading?",
+  "subheading": "According to the 2022 PISA survey, the average reading proficiency level among 15-year-olds in the EU has reached a historic low, with around one in four failing to reach the minimum required level. 30% of them do not have the minimum required mathematical skills, while around 25% struggle with reading and science.",
   "legend1": "No data available",
   "tooltip1": "Total mean score",
   "textSourceDescription": "Source",
   "textSource": "OECD",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "According to PISA, the minimum proficiency level in reading is Level 2, which corresponds to a score of at least 407 score points.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Click for more info"

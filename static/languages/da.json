@@ -1,12 +1,12 @@
 {
-  "heading": "Læsefærdigheder hos teenagere i EU baseret på PISA-undersøgelsen fra 2022",
-  "subheading": "I PISA 2022 faldt OECD-gennemsnittet med næsten 15 point i matematik og omkring 10 point i læsning sammenlignet med PISA 2018. Gennemsnitspræstationen i naturvidenskab forblev dog stabil.",
+  "heading": "Hvor gode er europæiske teenagere til at læse?",
+  "subheading": "Ifølge PISA-undersøgelsen fra 2022 har det gennemsnitlige læsefærdighedsniveau blandt 15-årige i EU nået et historisk lavpunkt, hvor omkring hver fjerde ikke når det krævede minimumsniveau. 30 % af dem har ikke de nødvendige matematiske færdigheder, mens omkring 25 % kæmper med læsning og naturvidenskab.",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "Samlet gennemsnitsscore",
   "textSourceDescription": "Kilde",
   "textSource": "OECD",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "Ifølge PISA er minimumsniveauet for læsefærdigheder niveau 2, hvilket svarer til en score på mindst 407 point.",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://www.oecd-ilibrary.org/sites/53f23881-en/index.html?itemId=/content/publication/53f23881-en",
   "textCountryClick": "Klik for mere information"
